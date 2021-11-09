@@ -1,2 +1,2 @@
-# Joab-Maia-Sistemas-Embarcados
+# Disciplina - Sistemas Embarcados 
 Aluno: Joab Silva da Maia
